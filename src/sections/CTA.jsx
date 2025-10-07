@@ -1,6 +1,6 @@
 import React from 'react'
 
-const PAYMENT_URL = import.meta.env.VITE_PAYMENT_URL || '#'
+const PAYMENT_URL = import.meta.env.VITE_PAYMENT_URL || 'https://pay.hotmart.com/N101809353Q?checkoutMode=2&off=lnqqh9tv'
 
 function CTA() {
   return (
@@ -8,7 +8,7 @@ function CTA() {
       <div className="container cta-inner">
         <h2>Pronto para começar?</h2>
         <p>Aproveite o preço promocional de lançamento por tempo limitado.</p>
-        <a className="btn btn-primary btn-lg" href={PAYMENT_URL}>Quero me inscrever agora</a>
+        <a className="btn btn-primary btn-lg hotmart-fb hotmart__button-checkout" href={PAYMENT_URL}>Quero me inscrever agora</a>
       </div>
     </section>
   )

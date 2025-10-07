@@ -1,6 +1,6 @@
 import React from 'react'
 
-const PAYMENT_URL = import.meta.env.VITE_PAYMENT_URL || '#'
+const PAYMENT_URL = import.meta.env.VITE_PAYMENT_URL || 'https://pay.hotmart.com/N101809353Q?checkoutMode=2&off=lnqqh9tv'
 
 function Hero() {
   return (
@@ -20,7 +20,7 @@ function Hero() {
             Seja você iniciante ou já atuante na área, este curso foi desenvolvido para levar suas habilidades a um novo nível e abrir portas para novas oportunidades de renda e crescimento.
           </p>
           <div className="hero-ctas">
-            <a href={PAYMENT_URL} className="btn btn-primary">Garantir minha vaga</a>
+            <a href={PAYMENT_URL} className="btn btn-primary hotmart-fb hotmart__button-checkout">Garantir minha vaga</a>
             <a href="#conteudo" className="btn btn-secondary">Ver conteúdo do curso</a>
           </div>
         </div>
@@ -37,7 +37,7 @@ function Hero() {
                 <li><span className="pro-icon">🗨️</span> Suporte para dúvidas</li>
               </ul>
               <div className="pro-price"><span className="label">Por apenas</span><span className="amount">R$ 247,00</span></div>
-              <a href={PAYMENT_URL} className="btn btn-primary pro-cta">Comprar agora!</a>
+              <a href={PAYMENT_URL} className="btn btn-primary pro-cta hotmart-fb hotmart__button-checkout">Comprar agora!</a>
             </div>
           </div>
         </aside>
