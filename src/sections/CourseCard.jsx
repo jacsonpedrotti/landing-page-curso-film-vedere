@@ -9,7 +9,7 @@ function CourseCard() {
           <p className="course-card-desc">Curso completo de aplicação de películas com acesso vitalício e suporte.</p>
           <div className="course-card-price">
             <span className="label">Por apenas</span>
-            <span className="amount">R$ 2.500,00</span>
+            <span className="amount">R$ 247,00</span>
           </div>
         </div>
       </div>

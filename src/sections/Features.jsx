@@ -12,19 +12,20 @@ function Features() {
             <p>Técnicas de aplicação em vidros automotivos, corte, encolhimento e acabamento.</p>
           </li>
           <li className="feature-card">
-            <div className="feature-icon" aria-hidden="true">🏠</div>
-            <h3>Instalação residencial</h3>
-            <p>Passo a passo para janelas residenciais: preparo, aplicação e manutenção.</p>
+            <div className="feature-icon" aria-hidden="true">🛠️</div>
+            <h3>Aplicação sem desmontar</h3>
+            <p>Métodos práticos para aplicar películas sem desmontar forros ou acabamentos.</p>
           </li>
+          <li className="feature-card">
+            <div className="feature-icon" aria-hidden="true">⏱️</div>
+            <h3>Técnicas que economizam tempo</h3>
+            <p>Fluxos e atalhos para agilizar corte, encolhimento e aplicação com precisão.</p>
+          </li>
+          
           <li className="feature-card">
             <div className="feature-icon" aria-hidden="true">🧰</div>
             <h3>Materiais e ferramentas</h3>
             <p>Como escolher películas, ferramentas essenciais e onde comprar com confiança.</p>
-          </li>
-          <li className="feature-card">
-            <div className="feature-icon" aria-hidden="true">💼</div>
-            <h3>Atendimento e orçamento</h3>
-            <p>Como precificar, abordar clientes e fechar contratos com segurança.</p>
           </li>
         </ul>
       </div>

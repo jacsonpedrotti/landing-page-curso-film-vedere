@@ -7,7 +7,7 @@ function Testimonials() {
         <h2 className="section-title">Resultados dos alunos</h2>
         <div className="testimonials-grid">
           <blockquote>
-            <p>“Em 2 semanas já fechei 3 carros e 1 residência. Técnicas simples que agilizaram meu trabalho.”</p>
+            <p>“Em 2 semanas já fechei 3 carros. Técnicas simples que agilizaram meu trabalho.”</p>
             <cite>— Marcos (São Paulo - SP)</cite>
           </blockquote>
           <blockquote>
@@ -15,7 +15,7 @@ function Testimonials() {
             <cite>— Aline (Rio de Janeiro - RJ)</cite>
           </blockquote>
           <blockquote>
-            <p>“Recuperei o investimento no primeiro mês e já ampliei meus serviços para películas residenciais.”</p>
+            <p>“Recuperei o investimento no primeiro mês e já ampliei meus serviços automotivos.”</p>
             <cite>— Diego (Curitiba - PR)</cite>
           </blockquote>
           <blockquote>
@@ -27,7 +27,7 @@ function Testimonials() {
             <cite>— Rafael (Porto Alegre - RS)</cite>
           </blockquote>
           <blockquote>
-            <p>“Comecei do zero e hoje já atendo prédios comerciais com muita segurança no processo.”</p>
+            <p>“Comecei do zero e hoje já atendo frotas e clientes exigentes com muita segurança no processo.”</p>
             <cite>— Juliana (Salvador - BA)</cite>
           </blockquote>
         </div>
