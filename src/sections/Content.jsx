@@ -14,7 +14,6 @@ function Content() {
               com foco em prática, acabamento e qualidade de entrega.
             </p>
             <ul className="content-list">
-              <li>Fundamentos das películas e tipos</li>
               <li>Ferramentas essenciais e preparação</li>
               <li>Técnicas automotivas: corte, aplicação e acabamento</li>
               <li>Aplicação sem desmontar: métodos para evitar remoção de forros e acabamentos</li>
