@@ -19,7 +19,6 @@ function Content() {
               <li>Técnicas automotivas: corte, aplicação e acabamento</li>
               <li>Aplicação sem desmontar: métodos para evitar remoção de forros e acabamentos</li>
               <li>Comece seu próprio negócio</li>
-              <li>Atendimento ao cliente e precificação</li>
             </ul>
           </div>
           <div className="content-video">

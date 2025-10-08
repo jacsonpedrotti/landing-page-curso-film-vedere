@@ -14,8 +14,8 @@ function FAQ() {
           <p>Não. Começamos do zero e avançamos até técnicas profissionais com aplicações reais.</p>
         </details>
         <details className="faq-item">
-          <summary><span className="q-icon">⏱️</span> Qual a carga horária?</summary>
-          <p>Mais de 30 aulas objetivas. Você pode estudar no seu ritmo, quando quiser.</p>
+          <summary><span className="q-icon">🤝</span> Tenho suporte para dúvidas?</summary>
+          <p>Sim! Oferecemos suporte completo para esclarecer todas as suas dúvidas durante o curso.</p>
         </details>
         <details className="faq-item">
           <summary><span className="q-icon">💳</span> Quais formas de pagamento?</summary>

@@ -21,12 +21,6 @@ function Features() {
             <h3>Técnicas que economizam tempo</h3>
             <p>Fluxos e atalhos para agilizar corte, encolhimento e aplicação com precisão.</p>
           </li>
-          
-          <li className="feature-card">
-            <div className="feature-icon" aria-hidden="true">🧰</div>
-            <h3>Materiais e ferramentas</h3>
-            <p>Como escolher películas, ferramentas essenciais e onde comprar com confiança.</p>
-          </li>
         </ul>
       </div>
     </section>
