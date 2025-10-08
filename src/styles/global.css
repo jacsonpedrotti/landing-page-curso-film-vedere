@@ -258,6 +258,11 @@ p { margin: 0 0 12px; }
 .online-price .label { color: var(--text-muted); font-size: 16px; display: block; margin-bottom: 8px; }
 .online-price .amount { color: #ef4444; font-size: 36px; font-weight: 700; display: block; }
 
+/* Championship Video */
+.championship-video { padding: 60px 0; background: var(--bg-soft); text-align: center; }
+.championship-video-wrapper { display: flex; justify-content: center; }
+.championship-video video { width: 100%; max-width: 1000px; max-height: 600px; border-radius: 12px; object-fit: contain; }
+
 @media (max-width: 768px) {
   .presential-card { padding: 24px; margin: 0 16px; }
   .presential-content h2 { font-size: 24px; }
@@ -268,6 +273,7 @@ p { margin: 0 0 12px; }
   .online-price .amount { font-size: 28px; }
   .vedere-logo { width: 200px; height: 200px; }
   .cta-logo { margin-top: 24px; }
+  .championship-video video { max-height: 400px; }
 }
 
 
