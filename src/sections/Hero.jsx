@@ -32,7 +32,7 @@ function Hero() {
             </div>
             <div className="pro-body">
               <ul className="pro-list">
-                <li><span className="pro-icon">🎓</span> +30 aulas práticas e objetivas</li>
+                <li><span className="pro-icon">🎓</span> Comece seu próprio negócio</li>
                 <li><span className="pro-icon">📁</span> Materiais para download</li>
                 <li><span className="pro-icon">🗨️</span> Suporte para dúvidas</li>
               </ul>

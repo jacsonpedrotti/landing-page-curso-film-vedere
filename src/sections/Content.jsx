@@ -1,6 +1,6 @@
 import React from 'react'
 
-const VIDEO_URL = '/assets/PPF2.mp4'
+const VIDEO_URL = '/assets/video-intro-vedere.mp4'
 
 function Content() {
   return (
@@ -18,6 +18,7 @@ function Content() {
               <li>Ferramentas essenciais e preparação</li>
               <li>Técnicas automotivas: corte, aplicação e acabamento</li>
               <li>Aplicação sem desmontar: métodos para evitar remoção de forros e acabamentos</li>
+              <li>Comece seu próprio negócio</li>
               <li>Atendimento ao cliente e precificação</li>
             </ul>
           </div>
